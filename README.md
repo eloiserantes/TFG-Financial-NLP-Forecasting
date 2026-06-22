@@ -3,7 +3,7 @@
 **Autor:** Eloi Serantes Abal
 
 ## 1. Descripción
-Este repositorio contiene los notebooks desarrollados para predecir series temporales financieras mediante técnicas de trading algorítmico. El sistema integra históricos de precios con análisis de sentimiento extraído de noticias mediante FinBERT, utilizando redes neuronales LSTM para la toma de decisiones y simulando estrategias de inversión (Long-Only, Long/Short y Buy & Hold) frente a índices de referencia del mercado.
+Este repositorio contiene los notebooks desarrollados para predecir series temporales financieras mediante técnicas de trading algorítmico. El sistema integra históricos de precios con análisis de sentimiento extraído de noticias mediante FinBERT, utilizando redes recurrentes para la toma de decisiones y simulando estrategias de inversión (Long-Only, Long/Short y Buy & Hold) frente a índices de referencia del mercado.
 
 ### Estructura del proyecto:
 * **01_Comparativa_datasets_y_FinBERT.ipynb:** Análisis comparativo entre datasets e inferencia con FinBERT del dataset FNSPID.
